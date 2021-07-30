@@ -14,7 +14,8 @@ https://disease.sh 의 오픈 데이터 API를 사용하여 각 나라 별 감�
 1 명
 
 - **페이지 구성 (flow chart)** (진행중)
-![Covid_FlowChart](https://user-images.githubusercontent.com/56250064/127616772-45dc9eec-a27e-4ad3-b130-cb2db8b80fec.png)
+![Covid_FlowChart](https://user-images.githubusercontent.com/56250064/127616772-45dc9eec-a27e-4ad3-b130-cb2db8b80fec.png){: width="300" height="100"}
+
 
 
 
